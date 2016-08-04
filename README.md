@@ -88,13 +88,13 @@ http://www.webpagetest.org/result/160802_2Y_2293/
 TTFB – Time to First Byte, время загрузки первого байта оценивается на C. 
 Повторное время загрузки - 12.841s
 
-![Скриншот результата анализа http://www.webpagetest.org](http://joxi.ru/4AkpPn1sM61KEr)
+![Скриншот результата анализа http://www.webpagetest.org](img/b4fca1e8cc.jpg)
 
 
 - Оптимизировать (сжать) изображения! Это очень важный пункт для этого сайта, потому что большая часть времени тратиться
  на загрузку изображений. 
  
-![Скриншот результата анализа http://www.webpagetest.org](http://joxi.ru/zANDR91slDxOzm)
+![Скриншот результата анализа http://www.webpagetest.org](img/483c9803cc.jpg)
 
 - Использовать CDN сети для более быстрой загрузки контента
 
